@@ -33,3 +33,7 @@ class student
             Console.ReadLine();
         }   
     }
+    Outpur:-
+Base class
+interface method
+Derived class of student
