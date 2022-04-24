@@ -22,3 +22,7 @@ namespace CSharp_Shell
     }
 }
 
+Output:-
+Entet age of candidate
+18
+Eligible for vote
